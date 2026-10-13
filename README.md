@@ -43,9 +43,9 @@ The 3DS then downloads the files from the device by itself.
 
 - Files and folders chosen with **Browse** go through Android's Storage Access Framework, so no storage permission is needed for them. Keep in mind:
 
-      * This is not available for older Android versions (I believe it's Android 5.0+).
+     * This is not available for older Android versions (I believe it's Android 5.0+).
       
-      * On Android 11+, the system does not let you pick some folders, like `Download` or the root of the internal storage. You can pick a sub-folder, manually type the path, or choose a single file.
+     * On Android 11+, the system does not let you pick some folders, like `Download` or the root of the internal storage. You can pick a sub-folder, manually type the path, or choose a single file.
       
 - Typed paths use plain file access and need the storage permission (the app asks for it).
 
