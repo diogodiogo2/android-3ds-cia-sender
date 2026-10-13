@@ -10,8 +10,11 @@ It is the Android counterpart of the desktop tool BOOP.
 ## AI Disclaimer
 
 This whole project (and by that I mean everything, even this readme) has been written by AI, more specifically Claude. I don't even know how to program in Java.
+
 It's just a simple app I've built for personal use, and decided to share as I quite liked the result. It hasn't been extensively tested and I may not be able to help with all the issues (be free to document them though, I'll do my best).
+
 I understand many people don't like AI code, and I get their reasoning. You're completely free to avoid using this project. It's just a quick project I wanted to share.
+
 While I'm quite certain this can't do any harm to your Android device (you can even use it without giving full storage access on recent Android versions) and much less to your 3DS (it just receives a download URL through the network), the program comes with NO WARRANTY whatsoever. You agree to take that risk.
 
 ## Usage
