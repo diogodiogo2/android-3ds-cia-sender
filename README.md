@@ -7,6 +7,8 @@ It is the Android counterpart of the desktop tool BOOP.
 - Small APK; runs on Android 2.3 (API 9) and newer.
 - Supports both English and Portuguese.
 
+![App demo image](https://github.com/diogodiogo2/android-3ds-cia-sender/blob/18fbce34c5e1b474ca17cb0d28afdefb0e893a26/cia-sender-demo.png)
+
 ## AI Disclaimer
 
 This whole project (and by that I mean everything, even this readme) has been written by AI, more specifically Claude. I don't even know how to program in Java.
